@@ -5,6 +5,8 @@
 - npm i --save typescript @types/node @types/react @types/react-dom @types/jest
 > ---REDUX---
 - npm i redux react-redux redux-thunk redux-devtools-extension reselect 
+> ---RX---
+npm i --save redux-observable rxjs
 > ---BOOTSTRAP---
 - npm i react-bootstrap bootstrap
 > ---MATERIAL---
